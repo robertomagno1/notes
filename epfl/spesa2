@@ -1,0 +1,130 @@
+# 🛒 Student Grocery Plan – Lausanne (EPFL) 🇨🇭
+
+This repository provides a **4-week grocery list** tailored for a student living in Lausanne with:
+- **EPFL student discounts**
+- **FMEL housing with shared kitchen**
+- **50 CHF per week budget**
+- Focus on **balanced diet** (breakfast, lunch, dinner, 2 snacks/day)
+
+---
+
+## ✅ Week 1 – Basic & Protein-Focused
+
+| Item                        | Quantity       | Price CHF |
+|-----------------------------|----------------|-----------|
+| Oats                        | 500g           | 1.50      |
+| Soy milk                    | 1L             | 1.80      |
+| Bananas                     | 1kg            | 2.00      |
+| Honey                       | 250g           | 3.50      |
+| Green tea                   | 20 bags        | 1.50      |
+| Whole grain bread           | 500g           | 2.00      |
+| Cheese slices               | 200g           | 3.00      |
+| Cooked ham                  | 150g           | 3.00      |
+| Mixed salad                 | 1 pack         | 2.50      |
+| Tomatoes                    | 500g           | 2.00      |
+| Brown rice                  | 1kg            | 2.50      |
+| Chicken breast              | 500g           | 5.00      |
+| Frozen broccoli             | 1kg            | 3.00      |
+| Eggs                        | 6              | 2.50      |
+| Potatoes                    | 1kg            | 2.00      |
+| Natural yogurt              | 4x125g         | 2.00      |
+| Mixed dried fruit           | 200g           | 3.00      |
+| Carrots                     | 1kg            | 2.00      |
+| Almonds                     | 200g           | 3.50      |
+| Olive oil                   | 500ml          | 4.00      |
+| Salt, pepper, herbs         | -              | 1.00      |
+| **Total**                   |                | **49.80** |
+
+---
+
+## ✅ Week 2 – Fish, Couscous & Greens
+
+| Item                        | Quantity       | Price CHF |
+|-----------------------------|----------------|-----------|
+| Whole grain cornflakes      | 500g           | 2.50      |
+| Oat milk                    | 1L             | 1.90      |
+| Apples                      | 1kg            | 2.20      |
+| Berry jam                   | 250g           | 2.50      |
+| Black tea                   | 25 bags        | 1.60      |
+| Rye bread                   | 500g           | 2.00      |
+| Feta cheese                 | 200g           | 3.00      |
+| Canned tuna                 | 2x160g         | 3.20      |
+| Zucchini                    | 500g           | 2.00      |
+| Cherry tomatoes             | 500g           | 2.50      |
+| Couscous                    | 500g           | 2.00      |
+| Frozen cod fillets          | 500g           | 5.50      |
+| Frozen green beans          | 1kg            | 3.00      |
+| Eggs                        | 6              | 2.50      |
+| Sweet potatoes              | 1kg            | 2.80      |
+| Greek yogurt                | 2x150g         | 2.00      |
+| Cashews                     | 200g           | 3.00      |
+| Bell peppers                | 500g           | 2.00      |
+| Canned chickpeas            | 2x400g         | 2.20      |
+| Rapeseed oil                | 500ml          | 2.50      |
+| **Total**                   |                | **49.90** |
+
+---
+
+## ✅ Week 3 – Vegetarian Focus & Meal Prep
+
+| Item                        | Quantity       | Price CHF |
+|-----------------------------|----------------|-----------|
+| Dried fruit muesli          | 500g           | 2.20      |
+| Almond milk                 | 1L             | 2.00      |
+| Pears                       | 1kg            | 2.00      |
+| Peanut butter               | 250g           | 3.50      |
+| Decaf tea                   | 25 bags        | 1.50      |
+| Wholemeal bread             | 500g           | 2.00      |
+| Ricotta                     | 250g           | 2.50      |
+| Hummus                      | 200g           | 2.00      |
+| Cucumbers                   | 500g           | 2.00      |
+| Lettuce                     | 1 pack         | 2.00      |
+| Dried lentils               | 500g           | 2.50      |
+| Textured soy protein        | 300g           | 4.50      |
+| Frozen peas                 | 1kg            | 3.00      |
+| Eggs                        | 6              | 2.50      |
+| Eggplants                   | 500g           | 2.00      |
+| Vegan yogurt                | 2x150g         | 2.20      |
+| Seed mix (chia, flax, etc.) | 200g           | 3.00      |
+| Apricots                    | 500g           | 2.00      |
+| Quinoa & farro mix          | 500g           | 3.50      |
+| Extra virgin olive oil      | 250ml          | 3.00      |
+| **Total**                   |                | **49.90** |
+
+---
+
+## ✅ Week 4 – Balanced & Fresh
+
+| Item                        | Quantity       | Price CHF |
+|-----------------------------|----------------|-----------|
+| Puffed oats                 | 500g           | 1.80      |
+| Oat milk                    | 1L             | 1.90      |
+| Kiwis                       | 1kg            | 2.50      |
+| Apricot jam                 | 250g           | 2.30      |
+| Green tea                   | 25 bags        | 1.50      |
+| Rustic bread                | 400g           | 2.20      |
+| Mozzarella                  | 2x125g         | 2.80      |
+| Smoked salmon               | 100g           | 4.00      |
+| Fresh spinach               | 500g           | 2.50      |
+| Tomatoes                    | 500g           | 2.00      |
+| Wholemeal pasta             | 500g           | 1.50      |
+| Turkey breast               | 400g           | 5.00      |
+| Mixed frozen vegetables     | 1kg            | 3.00      |
+| Eggs                        | 6              | 2.50      |
+| New potatoes                | 1kg            | 2.20      |
+| Plain yogurt                | 4x125g         | 2.00      |
+| Trail mix                   | 200g           | 3.50      |
+| Bell peppers                | 500g           | 2.00      |
+| Fresh ginger                | 100g           | 1.00      |
+| Sunflower oil               | 500ml          | 2.00      |
+| **Total**                   |                | **49.80** |
+
+---
+
+## 🧠 Tips
+
+- Prepare grains and legumes in batch every Sunday.
+- Keep snacks in containers or bags for grab-and-go.
+- Freeze cooked meals for variety over the weeks.
+- Use FMEL fridge wisely: label items and share space with roommates politely.
+
