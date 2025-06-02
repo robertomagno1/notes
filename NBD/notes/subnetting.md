@@ -23,18 +23,26 @@ Nel diagramma vediamo tre router principali, indicati con le lettere **A**, **B*
    - **Link-3** fra **A** ↔ **C**
 
 Lo schema complessivo (semplificato) è:
-
- pc-net   100 host
-      │
-      B
-     / \
-Link-1/ \Link-2
-A C — Internet
-│ (rete esterna)
-x-net-1 20 |
-20 host |
-\Link-3/
-
+--- 
+                pc-net (100 host)
+                      │
+                      B
+                    ／   ＼
+           ws-net (50)   ＼ Link-1
+                      ＼     ＼
+                       ＼     ＼
+                        ＼     ＼
+                         ＼     ＼
+                       Link-2    ＼
+                           ＼     ＼
+                            ＼     ＼
+                             ＼     ＼
+                              ＼     ＼
+                               C     A
+                                │     │
+                                │     │
+                          Internet  x-net-1 (20 host)
+                          (rete esterna)
 
 
 ---
