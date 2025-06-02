@@ -18,3 +18,9 @@ Un indirizzo IPv4 è un numero binario a 32 bit, solitamente scritto in **notazi
 
 Ad esempio, l’indirizzo:
 
+128.208.0.0/24
+
+vuol dire che i primi 24 bit (192.168.0) identificano la rete, mentre gli ultimi 8 bit servono a distinguere gli host in quella rete. In binario:
+
+10000000 11010000 00000000 | 00000000
+^ Prefisso /24 (network) ^ Host (8 bit)
