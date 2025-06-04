@@ -84,6 +84,7 @@
 
 ---
 
+
 ## ✅ Quick Tips
 - Shop at **Lidl** or **Aldi Suisse** for lowest prices
 - Use **Too Good To Go** app for discounts on bakery/food surplus
