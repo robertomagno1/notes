@@ -2,6 +2,7 @@
 
 Guida completa alle migliori attività per studenti EPFL: cultura, natura, sport e vita notturna a Losanna, con link, prezzi e descrizione.
 
+**sperando di avere tempo per divertimento 🥹**
 ---
 
 
