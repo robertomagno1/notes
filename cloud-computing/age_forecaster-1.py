@@ -1,3 +1,7 @@
+# for other env sys just change the setting in 
+# the main ambu
+
+
 #!/usr/bin/env python3
 """
 age_estimator_regression.py
