@@ -1,5 +1,5 @@
 1. Cumulative Distribution Functions and Probability Density Functions
-\( T_n \\)
+$T_n$
 The random variable \( T_n \\) is the sum of \( n \\) i.i.d. positive and absolutely continuous random variables \( J_i \\). The cumulative distribution function (CDF) of \( T_n \\) is given by the \( n \\)-fold convolution of the CDF of \( J_1 \\): \[ F_{T_n}(t) = (F_{J_1} * F_{J_1} * \\cdots * F_{J_1})(t) = F_{J_1}^{*n}(t). \\] The probability density function (PDF) of \( T_n \\) is the \( n \\)-fold convolution of the PDF of \( J_1 \\): \[ f_{T_n}(t) = (f_{J_1} * f_{J_1} * \\cdots * f_{J_1})(t) = f_{J_1}^{*n}(t). \\]
 
 \( N(t) \\)
